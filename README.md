@@ -1,7 +1,6 @@
 <h2>Home task #18</h2>
 <h4>Description</h4>
-<p>This application inserts data about a person. Surname, name and patronymic,
- as well as address.</p>
+<p>This app acts as a school journal. Allows you to enter data in the form of marks, students, subjects, teachers, and student parents.</p>
 <h4>Task list</h4>
 <ol>
 <li> Git repo
